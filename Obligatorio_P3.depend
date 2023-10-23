@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1689032109 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\boolean.cpp
+	"boolean.h"
+
+1689032108 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\boolean.h
+	<stdio.h>
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\curso.cpp
+	"Curso.h"
+
+1689033325 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\curso.h
+	"stringDin.h"
+	"Fecha.h"
+
+1689033669 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\stringdin.h
+	"boolean.h"
+
+1689033581 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\fecha.h
+	"stringDin.h"
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\escolaridad.cpp
+	"Escolaridad.h"
+
+1689033325 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\escolaridad.h
+	"Curso.h"
+
+1689033581 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\fecha.cpp
+	"Fecha.h"
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\stringdin.cpp
+	"stringDin.h"
+
+1689036042 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\main.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1689033019 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\alumnos.h
+	"Alumno.h"
+
+1689033019 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\alumno.h
+	"stringDin.h"
+	"Escolaridad.h"
+
+1689035103 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\menu.h
+	"stdio.h"
+	"alumnos.h"
+	"Previaturas.h"
+
+1689036108 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\previaturas.h
+	"SecuenciaAsignaturas.h"
+	"Escolaridad.h"
+
+1689033579 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\secuenciaasignaturas.h
+	"Asignatura.h"
+
+1689033019 c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\asignatura.h
+	"Fecha.h"
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\alumno.cpp
+	"Alumno.h"
+
+1689032887 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\alumnos.cpp
+	"alumnos.h"
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\asignatura.cpp
+	"Asignatura.h"
+
+1689035030 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\menu.cpp
+	"menu.h"
+
+1689036012 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\previaturas.cpp
+	"Previaturas.h"
+
+1689033669 source:c:\users\brand\onedrive\documentos\codeblocks\programacion3\obligatorio - p3\obligatorio_p3\secuenciaasignaturas.cpp
+	"SecuenciaAsignaturas.h"
+
+1688776845 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\alumno.cpp
+	"Alumno.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\alumno.h
+	"stringDin.h"
+	"Escolaridad.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\stringdin.h
+	"boolean.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\boolean.h
+	<stdio.h>
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\escolaridad.h
+	"Curso.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\curso.h
+	"stringDin.h"
+	"Fecha.h"
+
+1688774318 c:\users\merli\onedrive\escritorio\obligatorio_p3\fecha.h
+	"stringDin.h"
+
+1688757342 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\alumnos.cpp
+	"alumnos.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\alumnos.h
+	"Alumno.h"
+
+1688757342 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\asignatura.cpp
+	"Asignatura.h"
+
+1688757342 c:\users\merli\onedrive\escritorio\obligatorio_p3\asignatura.h
+	"Fecha.h"
+
+1688757343 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\boolean.cpp
+	"boolean.h"
+
+1688776650 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\curso.cpp
+	"Curso.h"
+
+1688757343 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\escolaridad.cpp
+	"Escolaridad.h"
+
+1688774318 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\fecha.cpp
+	"Fecha.h"
+
+1688777449 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\main.cpp
+	"alumnos.h"
+	"Menu.h"
+	"stdlib.h"
+	"Previaturas.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\menu.h
+	"stdio.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\previaturas.h
+	"SecuenciaAsignaturas.h"
+	"Escolaridad.h"
+
+1688757343 c:\users\merli\onedrive\escritorio\obligatorio_p3\secuenciaasignaturas.h
+	"Asignatura.h"
+
+1688758138 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\menu.cpp
+	"menu.h"
+
+1688761624 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\previaturas.cpp
+	"Previaturas.h"
+
+1688757343 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\secuenciaasignaturas.cpp
+	"SecuenciaAsignaturas.h"
+
+1688757342 source:c:\users\merli\onedrive\escritorio\obligatorio_p3\stringdin.cpp
+	"stringDin.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\alumno.cpp
+	"Alumno.h"
+
+1689081603 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\alumno.h
+	"stringDin.h"
+	"Escolaridad.h"
+
+1689081605 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\stringdin.h
+	"boolean.h"
+
+1689081603 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\boolean.h
+	<stdio.h>
+
+1689081604 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\escolaridad.h
+	"Curso.h"
+
+1689081603 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\curso.h
+	"stringDin.h"
+	"Fecha.h"
+
+1689081604 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\fecha.h
+	"stringDin.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\alumnos.cpp
+	"alumnos.h"
+
+1689081603 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\alumnos.h
+	"Alumno.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\asignatura.cpp
+	"Asignatura.h"
+
+1689081603 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\asignatura.h
+	"Fecha.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\boolean.cpp
+	"boolean.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\curso.cpp
+	"Curso.h"
+
+1689081603 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\escolaridad.cpp
+	"Escolaridad.h"
+
+1689081604 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\fecha.cpp
+	"Fecha.h"
+
+1689083128 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\menu.cpp
+	"menu.h"
+
+1689082384 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\menu.h
+	"stdio.h"
+	"alumnos.h"
+	"Previaturas.h"
+
+1689081604 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\previaturas.h
+	"SecuenciaAsignaturas.h"
+	"Escolaridad.h"
+
+1689081604 c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\secuenciaasignaturas.h
+	"Asignatura.h"
+
+1689083128 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\previaturas.cpp
+	"Previaturas.h"
+
+1689081604 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\secuenciaasignaturas.cpp
+	"SecuenciaAsignaturas.h"
+
+1689081605 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\stringdin.cpp
+	"stringDin.h"
+
+1689082259 source:c:\users\merli\onedrive\escritorio\v8\obligatorio_p3\main.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1689081604 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\alumno.cpp
+	"Alumno.h"
+
+1689206975 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\alumno.h
+	"stringDin.h"
+	"Escolaridad.h"
+
+1689081606 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\stringdin.h
+	"boolean.h"
+
+1689081604 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\boolean.h
+	<stdio.h>
+
+1689081606 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\escolaridad.h
+	"Curso.h"
+
+1689200957 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\curso.h
+	"stringDin.h"
+	"Fecha.h"
+
+1689081606 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\fecha.h
+	"stringDin.h"
+
+1689081604 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\alumnos.cpp
+	"alumnos.h"
+
+1689206975 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\alumnos.h
+	"Alumno.h"
+
+1689081604 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\asignatura.cpp
+	"Asignatura.h"
+
+1689081604 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\asignatura.h
+	"Fecha.h"
+
+1689081604 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\boolean.cpp
+	"boolean.h"
+
+1689200962 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\curso.cpp
+	"Curso.h"
+
+1689201328 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\escolaridad.cpp
+	"Escolaridad.h"
+
+1689081606 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\fecha.cpp
+	"Fecha.h"
+
+1689201104 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\main.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1689082386 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\menu.h
+	"stdio.h"
+	"alumnos.h"
+	"Previaturas.h"
+
+1689081606 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\previaturas.h
+	"SecuenciaAsignaturas.h"
+	"Escolaridad.h"
+
+1689081606 c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\secuenciaasignaturas.h
+	"Asignatura.h"
+
+1689083130 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\menu.cpp
+	"menu.h"
+
+1689083130 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\previaturas.cpp
+	"Previaturas.h"
+
+1689081606 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\secuenciaasignaturas.cpp
+	"SecuenciaAsignaturas.h"
+
+1689081606 source:c:\users\ateliz\desktop\estudios\ude\1. p3\obligatorio\stringdin.cpp
+	"stringDin.h"
+
+1689206791 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\alumno.cpp
+	"Alumno.h"
+
+1689206975 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\alumno.h
+	"stringDin.h"
+	"Escolaridad.h"
+
+1698092775 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\stringdin.h
+	"boolean.h"
+
+1689081604 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\boolean.h
+	<stdio.h>
+
+1689081606 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\escolaridad.h
+	"Curso.h"
+
+1689200957 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\curso.h
+	"stringDin.h"
+	"Fecha.h"
+
+1689081606 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\fecha.h
+	"stringDin.h"
+
+1689207002 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\alumnos.cpp
+	"alumnos.h"
+
+1689206975 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\alumnos.h
+	"Alumno.h"
+
+1689081604 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\asignatura.cpp
+	"Asignatura.h"
+
+1689081604 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\asignatura.h
+	"Fecha.h"
+
+1689081604 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\boolean.cpp
+	"boolean.h"
+
+1689200962 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\curso.cpp
+	"Curso.h"
+
+1689201328 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\escolaridad.cpp
+	"Escolaridad.h"
+
+1689081606 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\fecha.cpp
+	"Fecha.h"
+
+1689201104 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\main.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1689082386 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\menu.h
+	"stdio.h"
+	"alumnos.h"
+	"Previaturas.h"
+
+1689081606 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\previaturas.h
+	"SecuenciaAsignaturas.h"
+	"Escolaridad.h"
+
+1689081606 c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\secuenciaasignaturas.h
+	"Asignatura.h"
+
+1689083130 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\previaturas.cpp
+	"Previaturas.h"
+
+1689081606 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\secuenciaasignaturas.cpp
+	"SecuenciaAsignaturas.h"
+
+1698092775 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\stringdin.cpp
+	"stringDin.h"
+
+1698094014 source:c:\users\merli\onedrive\escritorio\obligatorio_vfinal\obligatorio\menu.cpp
+	"menu.h"
+
